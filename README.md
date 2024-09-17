@@ -21,7 +21,7 @@ Este sistema foi desenvolvido para facilitar a vida de pessoas que utilizam apar
 # Para utilizar o sistema, é necessário:
 Instale o XAMPP e inicie Apache e MySQL.
 
-No phpMyAdmin, clique em + Novo e crie um banco de dados chamado seguradora.
+No phpMyAdmin, clique em + Novo e crie um banco de dados chamado fono.
 
 Vá para Importar, selecione banco.sql da pasta fono e importe-o.
 
