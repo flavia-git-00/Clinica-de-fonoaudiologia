@@ -23,7 +23,7 @@ Instale o XAMPP e inicie Apache e MySQL.
 
 No phpMyAdmin, clique em + Novo e crie um banco de dados chamado fono.
 
-Vá para Importar, selecione banco.sql da pasta fono e importe-o.
+Vá para Importar, selecione banco.sql da pasta clinica e importe-o.
 
 Copie a pasta do projeto para htdocs.
 
