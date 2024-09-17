@@ -17,3 +17,16 @@ Este sistema foi desenvolvido para facilitar a vida de pessoas que utilizam apar
 **Histórico filtrado por cliente:** Acompanhe todo o histórico de testes, compras e devoluções, filtrado individualmente para cada cliente.
 
 **Filtragem de movimentações:** O sistema permite filtrar as movimentações da clínica, como entrada, saída, testes e devoluções, oferecendo uma visão clara do fluxo de aparelhos e serviços.
+
+# Para utilizar o sistema, é necessário:
+Instale o XAMPP e inicie Apache e MySQL.
+
+No phpMyAdmin, clique em + Novo e crie um banco de dados chamado seguradora.
+
+Vá para Importar, selecione banco.sql da pasta fono e importe-o.
+
+Copie a pasta do projeto para htdocs.
+
+Acesse o sistema em http://localhost/nome-da-pasta.
+
+Desfrute do sistema! 🌟
