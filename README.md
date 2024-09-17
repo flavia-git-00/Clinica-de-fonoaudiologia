@@ -1,6 +1,6 @@
 # Clinica-de-fonoaudiologia
 
-Sistema de Clínica de Fonoaudiologia
+# Sistema de Clínica de Fonoaudiologia
 Este sistema foi desenvolvido para facilitar a vida de pessoas que utilizam aparelhos auditivos, especialmente durante a fase de testes desses aparelhos, e para clínicas que precisam de um controle preciso sobre seus clientes, os aparelhos que estão em teste, os devolvidos e os vendidos.
 
 Funcionalidades
